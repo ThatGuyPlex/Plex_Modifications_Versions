@@ -1,5 +1,5 @@
 {
-  "NewestVersion": "v1.0",
-  "Changes": "Release",
+  "NewestVersion": "v1.1",
+  "Changes": "+ Fixed Version Check",
   "DownloadLocation": "https://portal.cfx.re/assets/granted-assets"
 }
